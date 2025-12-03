@@ -11,6 +11,4 @@ This project allows sending Excel reports of students via WhatsApp from a local 
 3. Use Ngrok public URL or Base64 encoding to make file accessible.
 4. Send file via UltraMSG API to WhatsApp number.
 
-> Base64 encoding is used to avoid ERR_NGROK_6024 errors when UltraMSG tries to fetch local files.
-
 Note: .sql are on root directory
